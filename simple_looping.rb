@@ -3,8 +3,9 @@ def loop_iterator(number_of_times)
     i=0
   loop do
     puts phrase
-    i += 1
-
+    i+=1
+if i >= number_of_times
+     break
 else
 end
 end
