@@ -1,4 +1,5 @@
 def loop_iterator
+  
   loop do
     puts phrase
 
