@@ -1,4 +1,6 @@
-
+def loop_iterator
+  loop do
+    puts phrase
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
